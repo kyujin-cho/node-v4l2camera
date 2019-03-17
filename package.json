@@ -38,7 +38,7 @@
         "linux"
     ],
     "dependencies": {
-        "nan": ">=2.3.0"
+        "nan": ">=2.13.1"
     },
     "contributors": [
         "Tim Cameron Ryan <id@timryan.org> (https://github.com/tcr)",
